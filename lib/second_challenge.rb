@@ -15,7 +15,7 @@ def second_challenge
         :age => "15",
         :status => "Alive"
       },
-      hero_friends =>{
+      hero_friends => {
         {
           :name => "Benvolio",
           :age => "17",
