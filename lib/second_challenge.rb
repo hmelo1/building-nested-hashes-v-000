@@ -27,7 +27,7 @@ def second_challenge
           :attitude => "hot-headed"
         }
       ]
-      },
+    },
     :capulet => {
       #your key/value pairs here!
       }}
