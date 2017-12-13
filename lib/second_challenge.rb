@@ -15,7 +15,7 @@ def second_challenge
         :age => "15",
         :status => "Alive"
       },
-      hero_friends => {
+      hero_friends => [
         {
           :name => "Benvolio",
           :age => "17",
@@ -26,7 +26,7 @@ def second_challenge
           :age => "18",
           :attitude => "hot-headed"
         }
-      }
+      ]
       },
     :capulet => {
       #your key/value pairs here!
