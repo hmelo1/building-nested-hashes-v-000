@@ -14,6 +14,12 @@ def second_challenge
         :name => "Romeo",
         :age => "15",
         :status => "Alive"
+      },
+      hero_friends =>{
+        {
+          :name => "Benvolio",
+          
+        }
       }
       },
     :capulet => {
