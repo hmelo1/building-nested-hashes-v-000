@@ -22,7 +22,7 @@ def bonus
 
   #code your solution here:
   #[:Montague][:hero][:status]
-  #
+  #[:Capulet][:heroine][:status]
   print "#{epic_tragedy}"
   print "#{epic_tragedy}"
 
