@@ -21,10 +21,8 @@ def bonus
   }
 
   #code your solution here:
-  #[:Montague][:hero][:status]
-  #[:Capulet][:heroine][:status]
-  print "#{epic_tragedy}"
-  print "#{epic_tragedy}"
+  print "#{epic_tragedy[:montague][:hero][:status]}"
+  print "#{epic_tragedy[:capulet][:heroine][:status]}"
 
 
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
