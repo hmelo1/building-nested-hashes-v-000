@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-  print "#{epic_tragedy[:Montague][:hero][:status]}"
+  print "#{bonus.epic_tragedy[:Montague][:hero][:status]}"
   print "#{epic_tragedy[:Capulet][:heroine][:status]}"
 
 
